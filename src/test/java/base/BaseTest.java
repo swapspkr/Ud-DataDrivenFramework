@@ -41,9 +41,12 @@ public class BaseTest {
 	public void setup() throws IOException {
 
 		if (driver == null) {
+			// Log4j properties
+
 			PropertyConfigurator
 					.configure(System.getProperty("user.dir") + "\\src\\test\\resources\\properties\\Log4j.properties");
-
+			
+			// Config properties
 			try {
 				fis = new FileInputStream(
 						System.getProperty("user.dir") + "\\src\\test\\resources\\properties\\config.properties");
@@ -58,7 +61,8 @@ public class BaseTest {
 
 				e.printStackTrace();
 			}
-
+			
+			// Object repository
 			try {
 				fis = new FileInputStream(
 						System.getProperty("user.dir") + "\\src\\test\\resources\\properties\\OR.properties");
