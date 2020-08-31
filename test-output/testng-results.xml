@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DataDriven Testing" duration-ms="6419" started-at="2020-08-10T11:41:01 IST" finished-at="2020-08-10T11:41:07 IST">
+    <groups>
+    </groups>
+    <test name="BankManager LoginTest" duration-ms="1646" started-at="2020-08-10T11:41:01 IST" finished-at="2020-08-10T11:41:02 IST">
+      <class name="testcases.BankMangerLoginTest">
+        <test-method status="PASS" signature="loginAsBankManager()[pri:0, instance:testcases.BankMangerLoginTest@a1cdc6d]" name="loginAsBankManager" duration-ms="1565" started-at="2020-08-10T11:41:01 IST" finished-at="2020-08-10T11:41:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAsBankManager -->
+      </class> <!-- testcases.BankMangerLoginTest -->
+    </test> <!-- BankManager LoginTest -->
+    <test name="AddCustomer Test" duration-ms="2653" started-at="2020-08-10T11:41:02 IST" finished-at="2020-08-10T11:41:05 IST">
+      <class name="testcases.AddCustomerTest">
+        <test-method status="PASS" signature="addCustomer(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.AddCustomerTest@6bf0219d]" name="addCustomer" duration-ms="2401" started-at="2020-08-10T11:41:03 IST" data-provider="readExcel" finished-at="2020-08-10T11:41:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[swapnil]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[supekar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[414001.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+      </class> <!-- testcases.AddCustomerTest -->
+    </test> <!-- AddCustomer Test -->
+    <test name="OpenAccount Test" duration-ms="1784" started-at="2020-08-10T11:41:05 IST" finished-at="2020-08-10T11:41:07 IST">
+      <class name="testcases.OpenAccountTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcases.OpenAccountTest@3c947bc5]" name="setup" is-config="true" duration-ms="14045" started-at="2020-08-10T11:40:47 IST" finished-at="2020-08-10T11:41:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="openAccount(java.lang.String, java.lang.String)[pri:0, instance:testcases.OpenAccountTest@3c947bc5]" name="openAccount" duration-ms="1607" started-at="2020-08-10T11:41:05 IST" data-provider="readExcel" finished-at="2020-08-10T11:41:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[swapnil supekar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rupee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccount -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.OpenAccountTest@3c947bc5]" name="tearDown" is-config="true" duration-ms="1192" started-at="2020-08-10T11:41:07 IST" finished-at="2020-08-10T11:41:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.OpenAccountTest -->
+    </test> <!-- OpenAccount Test -->
+  </suite> <!-- DataDriven Testing -->
+</testng-results>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="4.775" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="DataDriverTest"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://dell-xps:8080/job/DataDriverTest/5/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\DELL-XPS\.jenkins"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="HUDSON_SERVER_COOKIE" value="5c12ce5e95aa3a59"/>
+    <property name="POM_ARTIFACTID" value="DataDrivenFramework"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_66\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_66\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_66\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_66\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_66\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_66\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_66\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_66\jre\classes"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="DataDrivenFramework"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\Users\DELL-XPS\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0_66-b17"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="user.name" value="DELL-XPS"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="DataDriverTest"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://dell-xps:8080/job/DataDriverTest/5/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#5"/>
+    <property name="OneDrive" value="C:\Users\DELL-XPS\OneDrive"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_66\jre\bin"/>
+    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="143de8b114ef826853a38e549cce20889c89ce8d"/>
+    <property name="LOCALAPPDATA" value="C:\Users\DELL-XPS\AppData\Local"/>
+    <property name="java.version" value="1.8.0_66"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="USERNAME" value="DELL-XPS"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_66\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="5"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="maven.conf" value="E:\TechTools\Prerequisite_selenium\maven\apache-maven-3.6.3\conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_66\jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.0"/>
+    <property name="RUN_DISPLAY_URL" value="http://dell-xps:8080/job/DataDriverTest/5/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\DELL-XPS\AppData\Local\Temp"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://dell-xps:8080/job/DataDriverTest/5/display/redirect?page=artifacts"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.66-b17"/>
+    <property name="user.variant" value=""/>
+    <property name="GIT_PREVIOUS_COMMIT" value="143de8b114ef826853a38e549cce20889c89ce8d"/>
+    <property name="JOB_DISPLAY_URL" value="http://dell-xps:8080/job/DataDriverTest/display/redirect"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="DELL-XPS"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_66"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="HOMEPATH" value="\Users\DELL-XPS"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="user.script" value=""/>
+    <property name="COMPUTERNAME" value="DELL-XPS"/>
+    <property name="POM_GROUPID" value="com.w2a"/>
+    <property name="user.home" value="C:\Users\DELL-XPS"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-DataDriverTest-5"/>
+    <property name="JENKINS_SERVER_COOKIE" value="5c12ce5e95aa3a59"/>
+    <property name="=E:" value="E:\TechTools\Prerequisite_selenium"/>
+    <property name="HUDSON_URL" value="http://dell-xps:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\DELL-XPS"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_66\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:\TechTools\Prerequisite_selenium\maven\apache-maven-3.6.3/bin;C:\Program Files\Java\jdk1.8.0_66/bin;C:\Program Files\Java\jdk1.8.0_66/bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_66\bin;E:\TechTools\Prerequisite_selenium\maven\apache-maven-3.6.3\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseGit\bin;C:\Users\DELL-XPS\anaconda3;C:\Users\DELL-XPS\anaconda3\Library\mingw-w64\bin;C:\Users\DELL-XPS\anaconda3\Library\usr\bin;C:\Users\DELL-XPS\anaconda3\Library\bin;C:\Users\DELL-XPS\anaconda3\Scripts;;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\DELL-XPS\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="E:\TechTools\Prerequisite_selenium\maven\apache-maven-3.6.3"/>
+    <property name="java.class.path" value="C:\Users\DELL-XPS\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;E:\TechTools\Prerequisite_selenium\maven\apache-maven-3.6.3\boot\plexus-classworlds-2.6.0.jar;E:\TechTools\Prerequisite_selenium\maven\apache-maven-3.6.3/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main E:\TechTools\Prerequisite_selenium\maven\apache-maven-3.6.3 C:\Users\DELL-XPS\.jenkins\war\WEB-INF\lib\remoting-4.3.jar C:\Users\DELL-XPS\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\DELL-XPS\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 55149"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_66/bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_66\bin;E:\TechTools\Prerequisite_selenium\maven\apache-maven-3.6.3\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseGit\bin;C:\Users\DELL-XPS\anaconda3;C:\Users\DELL-XPS\anaconda3\Library\mingw-w64\bin;C:\Users\DELL-XPS\anaconda3\Library\usr\bin;C:\Users\DELL-XPS\anaconda3\Library\bin;C:\Users\DELL-XPS\anaconda3\Scripts;;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_66/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 42 Stepping 7, GenuineIntel"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="E:\TechTools\Prerequisite_selenium\maven\apache-maven-3.6.3"/>
+    <property name="java.io.tmpdir" value="C:\Users\DELL-XPS\AppData\Local\Temp\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\Users\DELL-XPS\.jenkins"/>
+    <property name="PATH+MAVEN" value="E:\TechTools\Prerequisite_selenium\maven\apache-maven-3.6.3/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="BUILD_URL" value="http://dell-xps:8080/job/DataDriverTest/5/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_66\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="E:\TechTools\SeleniumMaterial\MyWorkspace\DataDrivenFramework"/>
+    <property name="JOB_URL" value="http://dell-xps:8080/job/DataDriverTest/"/>
+    <property name="LOGONSERVER" value="\\DELL-XPS"/>
+    <property name="USERDOMAIN" value="DELL-XPS"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="MAVEN_HOME" value="E:\TechTools\Prerequisite_selenium\maven\apache-maven-3.6.3"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="5"/>
+    <property name="JENKINS_URL" value="http://dell-xps:8080/"/>
+    <property name="PROCESSOR_REVISION" value="2a07"/>
+    <property name="GIT_BRANCH" value="origin/master"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="GIT_COMMIT" value="4733e71438cd2eed1b1dc90614051ea09ecbcdd3"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\DELL-XPS\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\DELL-XPS\.jenkins\workspace\DataDriverTest@tmp"/>
+    <property name="WORKSPACE" value="C:\Users\DELL-XPS\.jenkins\workspace\DataDriverTest"/>
+    <property name="maven3.interceptor.common" value="C:\Users\DELL-XPS\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="GIT_URL" value="https://github.com/swapspkr/Ud-DataDrivenFramework.git"/>
+  </properties>
+  <testcase name="loginAsBankManager" classname="testcases.BankMangerLoginTest" time="0.389"/>
+  <testcase name="addCustomer" classname="testcases.AddCustomerTest" time="2.205"/>
+  <testcase name="openAccount" classname="testcases.OpenAccountTest" time="2.181"/>
+</testsuite>

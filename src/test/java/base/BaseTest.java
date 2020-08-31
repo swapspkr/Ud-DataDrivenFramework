@@ -100,7 +100,9 @@ public class BaseTest {
 				log.info("IE browser Launched !!");
 
 			}
+			
 			driver.get(config.getProperty("testsiteurl"));
+			
 			log.info("Navigated to ::" + config.getProperty("testsiteurl"));
 			driver.manage().window().maximize();
 			driver.manage().timeouts().implicitlyWait(Integer.parseInt(config.getProperty("implict.wait")),

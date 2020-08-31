@@ -1,0 +1,17 @@
+INFO    2020-08-13 11:19:03,266 [main] base.BaseTest  - Config file imported!!!
+INFO    2020-08-13 11:19:03,272 [main] base.BaseTest  - OR file imported!!!
+INFO    2020-08-13 11:19:10,395 [main] base.BaseTest  - Chrome browser Launched !!
+INFO    2020-08-13 11:19:12,465 [main] base.BaseTest  - Navigated to ::http://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2020-08-13 11:19:20,175 [main] base.BaseTest  - DB connection established !!
+INFO    2020-08-13 11:19:20,490 [main] base.BaseTest  - Clicking on element -->bmlbtn_CSS
+INFO    2020-08-13 11:19:20,638 [main] base.BaseTest  - Finding the Element : addCustBtn_CSS
+INFO    2020-08-13 11:19:21,630 [main] base.BaseTest  - Clicking on element -->addCustBtn_CSS
+INFO    2020-08-13 11:19:22,409 [main] base.BaseTest  - Typing in an Element : firstName_CSS entered the value as : swapnil
+INFO    2020-08-13 11:19:22,725 [main] base.BaseTest  - Typing in an Element : lastName_CSS entered the value as : supekar
+INFO    2020-08-13 11:19:23,162 [main] base.BaseTest  - Typing in an Element : post_CSS entered the value as : 414001.0
+INFO    2020-08-13 11:19:23,390 [main] base.BaseTest  - Clicking on element -->addCustomer_CSS
+INFO    2020-08-13 11:19:24,155 [main] base.BaseTest  - Clicking on element -->openAccount_XPATH
+INFO    2020-08-13 11:19:25,572 [main] base.BaseTest  - Typing in an Element : customer_XPATH entered the value as : swapnil supekar
+INFO    2020-08-13 11:19:25,861 [main] base.BaseTest  - Typing in an Element : currency_CSS entered the value as : Rupee
+INFO    2020-08-13 11:19:26,037 [main] base.BaseTest  - Clicking on element -->process_CSS
+INFO    2020-08-13 11:19:27,269 [main] base.BaseTest  - Test execution completed !!!
